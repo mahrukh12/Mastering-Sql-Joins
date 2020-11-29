@@ -11,7 +11,7 @@ Project included follwing:
 
 5. Retrieve data from tables in the employees database, using RIGHT JOIN
 
-6.Retrieve data from tables in the employees database, using SQL Joins together with the WHERE clause
+6. Retrieve data from tables in the employees database, using SQL Joins together with the WHERE clause
 
 7. Retrieve data from tables in the employees database, using Aggregate Functions with Joins
 
